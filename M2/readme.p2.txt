@@ -1,5 +1,5 @@
-WinaGodwin Anyanwu
+Tian Ze Qi
 
-wanyanwu3@gatech.edu
+tonyqi.2015@gatech.edu
 
-Aim for the top!
+hehe xd
