@@ -36,9 +36,7 @@ public class Person1 {
       for (int i = 2; i < input.length(); i++) {
         result = result + array[i];
       }
-
       result = result + array[0] + array[1];
-
       return result;
     }
 
