@@ -2,9 +2,9 @@ apply plugin: 'java'
 jar {
     manifest {
         attributes  'Implementation-Title': 'CS2340 M_2',
-                'Implementation-Version': 'version 1.0',
-                'Main-Class': 'edu.gatech.oad.antlab.pkg1.AntLabMain',
-                'Class-Path': '../../lib/resources.jar'
+                    'Implementation-Version': 'version 1.0',
+                    'Main-Class': 'edu.gatech.oad.antlab.pkg1.AntLabMain',
+                    'Class-Path': '../../lib/resources.jar'
     }
 }
 
