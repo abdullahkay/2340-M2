@@ -47,7 +47,7 @@ public class Person3 {
         int j = 0;
         String revName = "";
         for (int x = inputLen - 1; x >= 0; x--) {
-            revChar[j++] = input.charAt(inputLen - 1);
+            revChar[j++] = input.charAt(x);
         }
         for (char letter : revChar) {
             revName = revName + letter;
